@@ -15,7 +15,7 @@ shinyUI(pageWithSidebar(
                                             "B" = "B",
                                             "C" = "C",
                                             "D" = "D",
-                                            "F" = "E")),
+                                            "F" = "F")),
     submitButton('submit')
     
   ),
